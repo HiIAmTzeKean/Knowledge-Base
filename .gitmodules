@@ -1,4 +1,21 @@
 [submodule "SC3000-Artificial-Intelligence"]
 	path = SC3000-Artificial-Intelligence
 	url = https://github.com/HiIAmTzeKean/SC3000-Artificial-Intelligence.wiki.git
-
+[submodule "General knowledge"]
+	path = General knowledge
+	url = https://github.com/HiIAmTzeKean/General-knowledge
+[submodule "Statistics"]
+	path = Statistics
+	url = https://github.com/HiIAmTzeKean/SC2000-Probability-and-Statistics
+[submodule "Internship"]
+	path = Internship
+	url = https://github.com/HiIAmTzeKean/Internship
+[submodule "SC2005 Operating system"]
+	path = SC2005 Operating system
+	url = https://github.com/HiIAmTzeKean/SC2005-Operating-System
+[submodule "SC2001 Algorithm Analysis"]
+	path = SC2001 Algorithm Analysis
+	url = https://github.com/HiIAmTzeKean/SC2001-Algorithm-Analysis
+[submodule "Machine learning"]
+	path = Machine learning
+	url = https://github.com/HiIAmTzeKean/Machine-learning
