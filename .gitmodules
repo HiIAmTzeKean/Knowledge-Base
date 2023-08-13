@@ -19,3 +19,6 @@
 [submodule "Machine learning"]
 	path = Machine learning
 	url = https://github.com/HiIAmTzeKean/Machine-learning
+[submodule "Business"]
+	path = Business
+	url = https://github.com/HiIAmTzeKean/Business
