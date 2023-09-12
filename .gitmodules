@@ -22,3 +22,12 @@
 [submodule "Business"]
 	path = Business
 	url = https://github.com/HiIAmTzeKean/Business
+[submodule "NLP"]
+	path = NLP
+	url = https://github.com/HiIAmTzeKean/NLP
+[submodule "Computer networks"]
+	path = Computer networks
+	url = https://github.com/HiIAmTzeKean/Computer-networks
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/HiIAmTzeKean/OOP
