@@ -1,5 +1,5 @@
 [submodule "SC3000-Artificial-Intelligence"]
-	path = SC3000-Artificial-Intelligence
+	path = SC3000 Artificial Intelligence
 	url = https://github.com/HiIAmTzeKean/SC3000-Artificial-Intelligence.wiki.git
 [submodule "General knowledge"]
 	path = General knowledge
@@ -7,9 +7,6 @@
 [submodule "Statistics"]
 	path = Statistics
 	url = https://github.com/HiIAmTzeKean/SC2000-Probability-and-Statistics
-[submodule "Internship"]
-	path = Internship
-	url = https://github.com/HiIAmTzeKean/Internship
 [submodule "SC2005 Operating system"]
 	path = SC2005 Operating system
 	url = https://github.com/HiIAmTzeKean/SC2005-Operating-System
