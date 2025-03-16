@@ -31,3 +31,6 @@
 [submodule "80240693-Introduction-to-Big-Data-Systems"]
 	path = 80240693-Introduction-to-Big-Data-Systems
 	url = https://github.com/HiIAmTzeKean/80240693-Introduction-to-Big-Data-Systems
+[submodule "Information retrieval"]
+	path = Information retrieval
+	url = https://github.com/HiIAmTzeKean/Information-retrieval
